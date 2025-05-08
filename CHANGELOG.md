@@ -1,6 +1,6 @@
 # Changelog
 
-## Release notes are now stored in Github Releases: https://github.com/colinhacks/zod/releases
+## [Release notes are now stored in Github Releases:](https://github.com/colinhacks/zod/releases)
 
 ## Previous Releases
 
